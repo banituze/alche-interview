@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for rain water trapping problem"""
+""" Module for rain water trapping problem """
 
 
 def rain(walls):
